@@ -1,0 +1,6 @@
+dagger/android/InjectAble.class
+dagger/android/HasObjectInjector.class
+dagger/android/ObjectInjectionModule.class
+dagger/android/ObjectInjection.class
+dagger/android/InjectAbleKey.class
+dagger/android/InjectObjectHolder.class
