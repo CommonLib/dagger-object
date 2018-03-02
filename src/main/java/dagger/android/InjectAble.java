@@ -5,5 +5,4 @@ package dagger.android;
  */
 
 public interface InjectAble {
-    InjectObjectHolder getInjectObjectHolder();
 }
